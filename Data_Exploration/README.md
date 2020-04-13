@@ -4,7 +4,7 @@ This Readme assume all steps of Data Wrangling `README.md` completed successfull
 
 In order to replicate the Data Exploration portion of this project, please follow the following steps: 
 
-1. Navigate to the `DataExplorationMasterScript.ipynb` script and run through Google Colab. This script encapsulates all scripts used in the exploration phase of the project.
+1. Navigate to the `DataExplorationMasterScript.ipynb` script in the Google Shared Drive. Run the script in Google Colab. This script encapsulates all scripts used in the exploration phase of the project.
 
 2. This completes the Data Exploration phase of this project.
 
