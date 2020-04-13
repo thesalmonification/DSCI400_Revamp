@@ -5,7 +5,7 @@ In order to replicate the Data Wrangling portion of this project, please follow 
 
 2. Run the script `DataWranglingMasterScript.ipynb`. This script organizes all subscripts used to wrangle the data.
 
-3. This completes the Data Wrangling/Preprocessing phase of this project. Proceed to the Data Exploration folder to continue...
+3. This completes the Data Wrangling/Preprocessing phase of this project. Proceed to the Data Exploration folder and it's accompanying [README.md](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Exploration/README.md) to continue...
 
 ### Interesting Data Wrangling Techniques Our Team Used
 
