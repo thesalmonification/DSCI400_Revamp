@@ -9,6 +9,6 @@ In order to replicate the Data Wrangling portion of this project, please follow 
 
 ### Interesting Data Wrangling Techniques Our Team Used
 
-* Phase Vocoding: This technique, unlike simple up/downsampling, uses phase information to shorten signals which destroying spectra. We used this technique to shorten our EEG signals to equal length.
+* Phase Vocoding: This technique, unlike simple up/downsampling, uses phase information to shorten signals without. destroying spectra. We used this technique to shorten our EEG signals to equal length.
 
 * Downsampling: After phase vocoding, we further shortened our EEG signals to reduce modeling complexity. To do so, we employed simple downsampling. Our signals were oversampled by a factor of 4.
