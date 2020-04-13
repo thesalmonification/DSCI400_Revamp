@@ -1,6 +1,6 @@
 # DSCI400_Revamp
 <p align="center">
-  A revamped repository, allowing for direct communication with Google Collab.
+  A revamped repository, allowing for direct communication with Google Collab. 
   Created on March 2, 2020 for the DSCI 400 Health Team: 
   Analyzing EEG Emotions Through Transfer Learning  
 </p>
