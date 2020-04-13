@@ -8,4 +8,4 @@ In order to replicate the Data Exploration portion of this project, please follo
 
 2. This completes the Data Exploration phase of this project.
 
-3. Please proceed to the Modeling folder and its README.md of the project to continue.
+3. Please proceed to the [Modeling Folder](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Modeling/) and its [README.md](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Modeling/README.md) of the project to continue.
