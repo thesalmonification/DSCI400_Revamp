@@ -1,13 +1,18 @@
 # DSCI400_Revamp
-A revamped repository, allowing for direct communication with Google Collab.
-Created on March 2, 2020 for the DSCI 400 Health Team: Analyzing EEG Emotions Through Transfer Learning  
+<p align="center">
+  A revamped repository, allowing for direct communication with Google Collab.
+  Created on March 2, 2020 for the DSCI 400 Health Team: 
+  Analyzing EEG Emotions Through Transfer Learning  
+</p>
+
+
 
 
 <p align="center">
   <img src=DCTExplorationImage.png width="700" title="DCT Exploration Image">
 </p>
 <p align="center">
-  <"Example EEG Exploration Image created through the Discrete Cosine Transform">
+  Example EEG Exploration Image created through the Discrete Cosine Transform
 </p>
 
 # Project Description
