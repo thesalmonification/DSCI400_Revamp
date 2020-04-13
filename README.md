@@ -1,4 +1,4 @@
-# DSCI400_Revamp
+# DSCI400: Health Team
 <p align="center">
   Created on March 2, 2020 for the DSCI 400 Health Team: 
   Analyzing EEG Emotions Through Transfer Learning  
