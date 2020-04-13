@@ -1,6 +1,6 @@
 # Data Exploration Instructions
 
-This Readme assume all steps of Data Wrangling `README.md` completed successfully.
+This Readme assume all steps of Data Wrangling [README.md](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Wrangling/README.md) completed successfully.
 
 In order to replicate the Data Exploration portion of this project, please follow the following steps: 
 
