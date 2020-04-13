@@ -22,7 +22,7 @@ This project seeks to obtain higher classification accuracy for a broad range of
 # Code Reproducibility
 * Only authorized individuals can fully reproduce this code because our dataset is under a confidentiality agreement. All authorized individuals already have access to a Google Shared drive from which to reproduce this code.
 
-* To replicate our Data Science pipeline, please enter the [Data_Wrangling folder](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Wrangling/)
+* To replicate our Data Science pipeline, please enter the [Data Wrangling Folder](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Wrangling/)
 and follow the instructions in the [README.md](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Wrangling/README.md) file.
 
 
