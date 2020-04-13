@@ -1,5 +1,5 @@
 # Modeling Instructions
-This Readme assume all steps of the Exploration README completed successfully.
+This Readme assume all steps of the Exploration [README] https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Exploration/README.md completed successfully.
 
 In order to replicate the Modeling portion of this project, please follow the following steps:
 
