@@ -1,6 +1,7 @@
 # DSCI400_Revamp
 A revamped repository, allowing for direct communication with Google Collab.
 Created on March 2, 2020 for the DSCI 400 Health Team: Analyzing EEG Emotions Through Transfer Learning
+![Example EEG Transformation Using the DCT](DCTExplorationImage.png)
 
 # Project Description
 This project seeks to obtain higher classification accuracy for a broad range of EEG emotional responses through the use of transfer learning. Transfer learning is a machine learning process by which knowledge gained in training a model for one problem is used when training a model for a similar second problem. For our project specifically, we intend to split our data into positive and negative emotions for initial training and testing before training our models to classify specific emotion based on our findings during this project. This project will seek to pull from many previous examples in order to optimize our feature extraction and overall collection of relevant features. In this project, we will analyze the relationship between EEG waveforms and mental state in order to map EEG activity to specific emotional responses. 
