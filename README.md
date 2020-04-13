@@ -5,7 +5,7 @@ Created on March 2, 2020 for the DSCI 400 Health Team: Analyzing EEG Emotions Th
 
 <p align="center">
   <img src=DCTExplorationImage.png width="350" title="hover text">
-  <img src=DCTExplorationImage.png width="350" alt="accessibility text">
+  An example Data Exploration plot created using the Discrete Cosine Transform (DCT). 
 </p>
 
 
