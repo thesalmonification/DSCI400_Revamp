@@ -7,13 +7,13 @@ This project seeks to obtain higher classification accuracy for a broad range of
 
 
 # Installation Procedure
-*All code is designed to be run through Google Colab, which standardizes packages across all users. If officially authorized to reproduce the code of this repo, you have already been given access to a Google Shared Drive which allows you to run our code.
-*Also included is a requirements.txt file, but it is essentially irrelevant, as all code is designed to be run through Google Colab
+* All code is designed to be run through Google Colab, which standardizes packages across all users. If officially authorized to reproduce the code of this repo, you have already been given access to a Google Shared Drive which allows you to run our code.
+* Also included is a requirements.txt file, but it is essentially irrelevant, as all code is designed to be run through Google Colab
 
 # Code Reproducibility
-*Only authorized individuals can fully reproduce this code because our dataset is under a confidentiality agreement. Any authorized individuals will have already have access to a Google Shared drive from which to reproduce this code.
+* Only authorized individuals can fully reproduce this code because our dataset is under a confidentiality agreement. Any authorized individuals will have already have access to a Google Shared drive from which to reproduce this code.
 
-*To replicate our Data Science pipeline, please enter the "Data_Wrangling" folder
+* To replicate our Data Science pipeline, please enter the "Data_Wrangling" folder
 and follow the instructions in the README.md file.
 
 
