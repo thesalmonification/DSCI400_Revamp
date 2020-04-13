@@ -27,5 +27,5 @@ and follow the instructions in the [README.md](https://github.com/thesalmonifica
 
 
 # Data Confidentiality
-Our dataset is protected under academic agreement, meaning none of the data may be publicly posted to this repository. Only authorized members for the DSCI 400 class have been given access to the data to reproduce this code. 
+Our dataset is protected under academic agreement, meaning none of the data may be publicly posted to this repository. Only authorized members of the DSCI 400 class have been given access to the data to reproduce this code. 
 
