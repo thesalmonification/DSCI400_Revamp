@@ -3,7 +3,7 @@ In order to replicate the Data Wrangling portion of this project, please follow 
 
 1. Go to the Google Share Drive called: "DSCI400_Revamp". If you have proper authorization to view this project, an example "DSCI400_Revamp" shared drive will have already been shared with you.
 
-2. Run the script `DataWranglingMasterScript.ipynb`. This script organizes all subscripts used to wrangle the data.
+2. Run the Google Shared Drive script `DataWranglingMasterScript.ipynb` in Google Colab. This script organizes all subscripts used to wrangle the data.
 
 3. This completes the Data Wrangling/Preprocessing phase of this project. Proceed to the [Data Exploration Folder](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Exploration/) and it's accompanying [README.md](https://github.com/thesalmonification/DSCI400_Revamp/tree/master/Data_Exploration/README.md) to continue...
 
